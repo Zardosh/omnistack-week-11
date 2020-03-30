@@ -32,7 +32,7 @@ Foram utilizadas as seguintes tecnologias para desenvolver o projeto:
   - [React Native](https://reactnative.dev/)
   - [Expo](https://expo.io/)
 
-### :recycle: Como contribuir
+### :arrow_forward: Executando localmente
 
 - Navegue para a pasta em que você deseja armazenar o projeto
 - Clone esse repositório
