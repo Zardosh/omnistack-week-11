@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
+<img src="./logo.png" width="250px" /><br>
  <b>Seja um Herói!</b>
 </h4>
 <p align="center">
